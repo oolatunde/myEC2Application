@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h4>Welcome <b>DevOps Engineer John!</b></h4>
+	<h4>Welcome DevOps Engineer John!</h4>
 </body>
 </html>
